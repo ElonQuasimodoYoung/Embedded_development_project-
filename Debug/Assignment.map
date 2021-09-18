@@ -1,0 +1,1006 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                              serialio.o (__divmodsi4)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                              d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              game.o (__do_copy_data)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              buttons.o (__do_clear_bss)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+                              project.o (fgetc)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                              project.o (__iob)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+                              scoring.o (printf)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+                              display.o (printf_P)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+                              terminalio.o (putchar)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o) (vfprintf)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o) (fputc)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                              d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o) (__prologue_saves__)
+d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                              d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+out_insert_pos      0x1               serialio.o
+bytes_in_out_buffer
+                    0x1               serialio.o
+redScore            0x1               scoring.o
+cursor_y            0x1               game.o
+board               0x40              game.o
+current_player      0x1               game.o
+out_buffer          0xff              serialio.o
+input_insert_pos    0x1               serialio.o
+cursor_visible      0x1               game.o
+input_buffer        0x10              serialio.o
+input_overrun       0x1               serialio.o
+valid_direction     0x200             game.o
+cursor_x            0x1               game.o
+greenScore          0x1               scoring.o
+__iob               0x6               d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+bytes_in_input_buffer
+                    0x1               serialio.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 buttons.o
+ .data          0x00000000        0x0 buttons.o
+ .bss           0x00000000        0x0 buttons.o
+ .text          0x00000000        0x0 display.o
+ .data          0x00000000        0x0 display.o
+ .bss           0x00000000        0x0 display.o
+ .text          0x00000000        0x0 game.o
+ .data          0x00000000        0x0 game.o
+ .bss           0x00000000        0x0 game.o
+ .text          0x00000000        0x0 project.o
+ .data          0x00000000        0x0 project.o
+ .bss           0x00000000        0x0 project.o
+ .text          0x00000000        0x0 scoring.o
+ .data          0x00000000        0x0 scoring.o
+ .bss           0x00000000        0x0 scoring.o
+ .text          0x00000000        0x0 serialio.o
+ .data          0x00000000        0x0 serialio.o
+ .bss           0x00000000        0x0 serialio.o
+ .text          0x00000000        0x0 terminalio.o
+ .data          0x00000000        0x0 terminalio.o
+ .bss           0x00000000        0x0 terminalio.o
+ .text.reverse_video
+                0x00000000       0x12 terminalio.o
+ .text.clear_to_end_of_line
+                0x00000000       0x12 terminalio.o
+ .text.show_cursor
+                0x00000000       0x12 terminalio.o
+ .text.enable_scrolling_for_whole_display
+                0x00000000       0x12 terminalio.o
+ .text.set_scroll_region
+                0x00000000       0x32 terminalio.o
+ .text.scroll_down
+                0x00000000       0x12 terminalio.o
+ .text.scroll_up
+                0x00000000       0x12 terminalio.o
+ .text.draw_horizontal_line
+                0x00000000       0x38 terminalio.o
+ .text.draw_vertical_line
+                0x00000000       0x4e terminalio.o
+ .progmem.data.__c.2096
+                0x00000000        0x7 terminalio.o
+ .progmem.data.__c.2079
+                0x00000000        0x3 terminalio.o
+ .progmem.data.__c.2074
+                0x00000000        0x3 terminalio.o
+ .progmem.data.__c.2069
+                0x00000000        0x9 terminalio.o
+ .progmem.data.__c.2063
+                0x00000000        0x4 terminalio.o
+ .progmem.data.__c.2058
+                0x00000000        0x7 terminalio.o
+ .progmem.data.__c.2045
+                0x00000000        0x4 terminalio.o
+ .progmem.data.__c.2035
+                0x00000000        0x5 terminalio.o
+ .text          0x00000000        0x0 timer0.o
+ .data          0x00000000        0x0 timer0.o
+ .bss           0x00000000        0x0 timer0.o
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+ .text.avr-libc
+                0x00000000        0xe d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+ .comment       0x00000000       0x31 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(putchar.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD buttons.o
+LOAD display.o
+LOAD game.o
+LOAD project.o
+LOAD scoring.o
+LOAD serialio.o
+LOAD terminalio.o
+LOAD timer0.o
+START GROUP
+LOAD d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x20a0
+ *(.vectors)
+ .vectors       0x00000000       0x68 D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.__c.2053
+                0x00000068        0x3 display.o
+ .progmem.data.__c.2045
+                0x0000006b        0x8 display.o
+ .progmem.data.__c.2040
+                0x00000073       0x1a display.o
+ .progmem.data.__c.2035
+                0x0000008d       0x1a display.o
+ .progmem.data.__c.2033
+                0x000000a7       0x1a display.o
+ .progmem.data.__c.2261
+                0x000000c1       0x1e project.o
+ .progmem.data.__c.2259
+                0x000000df        0xa project.o
+ .progmem.data.__c.2238
+                0x000000e9       0x31 project.o
+ .progmem.data.__c.2236
+                0x0000011a        0x8 project.o
+ .progmem.data.__c.2054
+                0x00000122        0x7 terminalio.o
+ .progmem.data.__c.2050
+                0x00000129        0x6 terminalio.o
+ .progmem.data.__c.2040
+                0x0000012f        0x5 terminalio.o
+ .progmem.data.__c.2030
+                0x00000134        0x5 terminalio.o
+ .progmem.data.__c.2025
+                0x00000139        0x9 terminalio.o
+                0x00000142                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000142                __ctors_start = .
+ *(.ctors)
+                0x00000142                __ctors_end = .
+                0x00000142                __dtors_start = .
+ *(.dtors)
+                0x00000142                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000142        0x0 D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000142                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000142        0xc D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000014e       0x16 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x0000014e                __do_copy_data
+ .init4         0x00000164       0x10 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x00000164                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000174        0x8 D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000017c        0x4 D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x0000017c                __vector_22
+                0x0000017c                __vector_1
+                0x0000017c                __vector_24
+                0x0000017c                __vector_12
+                0x0000017c                __bad_interrupt
+                0x0000017c                __vector_6
+                0x0000017c                __vector_3
+                0x0000017c                __vector_23
+                0x0000017c                __vector_25
+                0x0000017c                __vector_11
+                0x0000017c                __vector_13
+                0x0000017c                __vector_17
+                0x0000017c                __vector_7
+                0x0000017c                __vector_5
+                0x0000017c                __vector_9
+                0x0000017c                __vector_2
+                0x0000017c                __vector_21
+                0x0000017c                __vector_15
+                0x0000017c                __vector_8
+                0x0000017c                __vector_10
+                0x0000017c                __vector_16
+                0x0000017c                __vector_20
+                0x00000180                . = ALIGN (0x2)
+ *(.text.*)
+ .text.init_button_interrupts
+                0x00000180       0x42 buttons.o
+                0x00000180                init_button_interrupts
+ .text.button_pushed
+                0x000001c2       0x50 buttons.o
+                0x000001c2                button_pushed
+ .text.__vector_4
+                0x00000212      0x14a buttons.o
+                0x00000212                __vector_4
+ .text.initialise_display
+                0x0000035c       0x8a display.o
+                0x0000035c                initialise_display
+ .text.start_display
+                0x000003e6       0x24 display.o
+                0x000003e6                start_display
+ .text.update_square_colour
+                0x0000040a       0x68 display.o
+                0x0000040a                update_square_colour
+ .text.initialise_board
+                0x00000472       0xd8 game.o
+                0x00000472                initialise_board
+ .text.get_piece_at
+                0x0000054a       0x2c game.o
+                0x0000054a                get_piece_at
+ .text.distance
+                0x00000576       0x2e game.o
+                0x00000576                distance
+ .text.check_valid_place
+                0x000005a4      0x404 game.o
+                0x000005a4                check_valid_place
+ .text.flash_cursor
+                0x000009a8       0x68 game.o
+                0x000009a8                flash_cursor
+ .text.move_display_cursor
+                0x00000a10       0x38 game.o
+                0x00000a10                move_display_cursor
+ .text.flip_piece
+                0x00000a48      0x4ec game.o
+                0x00000a48                flip_piece
+ .text.check_available_move
+                0x00000f34       0x4e game.o
+                0x00000f34                check_available_move
+ .text.piece_placement
+                0x00000f82      0x13a game.o
+                0x00000f82                piece_placement
+ .text.no_available_move_game_over
+                0x000010bc        0x6 game.o
+                0x000010bc                no_available_move_game_over
+ .text.is_game_over
+                0x000010c2       0x3a game.o
+                0x000010c2                is_game_over
+ .text.get_current_player
+                0x000010fc        0xc game.o
+                0x000010fc                get_current_player
+ .text.initialise_hardware
+                0x00001108       0x1a project.o
+                0x00001108                initialise_hardware
+ .text.start_screen
+                0x00001122       0x6a project.o
+                0x00001122                start_screen
+ .text.new_game
+                0x0000118c       0x16 project.o
+                0x0000118c                new_game
+ .text.play_game
+                0x000011a2      0x158 project.o
+                0x000011a2                play_game
+ .text.handle_game_over
+                0x000012fa       0x42 project.o
+                0x000012fa                handle_game_over
+ .text.main     0x0000133c       0x16 project.o
+                0x0000133c                main
+ .text.init_score
+                0x00001352       0x5c scoring.o
+                0x00001352                init_score
+ .text.piece_placement_score
+                0x000013ae       0xc0 scoring.o
+                0x000013ae                piece_placement_score
+ .text.flip_piece_score
+                0x0000146e       0x30 scoring.o
+                0x0000146e                flip_piece_score
+ .text.get_score
+                0x0000149e       0x14 scoring.o
+                0x0000149e                get_score
+ .text.uart_put_char
+                0x000014b2       0x70 serialio.o
+ .text.uart_get_char
+                0x00001522       0x5c serialio.o
+ .text.init_serial_stdio
+                0x0000157e       0x8e serialio.o
+                0x0000157e                init_serial_stdio
+ .text.serial_input_available
+                0x0000160c        0xe serialio.o
+                0x0000160c                serial_input_available
+ .text.clear_serial_input_buffer
+                0x0000161a        0xa serialio.o
+                0x0000161a                clear_serial_input_buffer
+ .text.__vector_19
+                0x00001624       0x84 serialio.o
+                0x00001624                __vector_19
+ .text.__vector_18
+                0x000016a8       0xa6 serialio.o
+                0x000016a8                __vector_18
+ .text.move_terminal_cursor
+                0x0000174e       0x22 terminalio.o
+                0x0000174e                move_terminal_cursor
+ .text.normal_display_mode
+                0x00001770       0x12 terminalio.o
+                0x00001770                normal_display_mode
+ .text.clear_terminal
+                0x00001782       0x12 terminalio.o
+                0x00001782                clear_terminal
+ .text.set_display_attribute
+                0x00001794       0x1a terminalio.o
+                0x00001794                set_display_attribute
+ .text.hide_cursor
+                0x000017ae       0x12 terminalio.o
+                0x000017ae                hide_cursor
+ .text.init_timer0
+                0x000017c0       0x42 timer0.o
+                0x000017c0                init_timer0
+ .text.get_current_time
+                0x00001802       0x20 timer0.o
+                0x00001802                get_current_time
+ .text.display_digit
+                0x00001822       0x5a timer0.o
+                0x00001822                display_digit
+ .text.pause_game
+                0x0000187c       0x16 timer0.o
+                0x0000187c                pause_game
+ .text.__vector_14
+                0x00001892      0x104 timer0.o
+                0x00001892                __vector_14
+ .text.libgcc.div
+                0x00001996       0x2e d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                0x00001996                __divmodsi4
+ .text.libgcc.div
+                0x000019c4       0x10 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                0x000019c4                __negsi2
+ .text.libgcc.div
+                0x000019d4       0x44 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x000019d4                __udivmodsi4
+ .text.avr-libc
+                0x00001a18       0x7c d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+                0x00001a18                fgetc
+ .text.avr-libc
+                0x00001a94       0x2c d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+                0x00001a94                printf
+ .text.avr-libc
+                0x00001ac0       0x4c d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+                0x00001ac0                printf_P
+ .text.avr-libc
+                0x00001b0c      0x3c2 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x00001b0c                vfprintf
+ .text.avr-libc
+                0x00001ece       0x16 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x00001ece                strnlen_P
+ .text.avr-libc
+                0x00001ee4       0x16 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x00001ee4                strnlen
+ .text.avr-libc
+                0x00001efa       0x78 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x00001efa                fputc
+ .text.avr-libc
+                0x00001f72       0xbc d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00001f72                __ultoa_invert
+ .text.libgcc.prologue
+                0x0000202e       0x38 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_prologue.o)
+                0x0000202e                __prologue_saves__
+ .text.libgcc.prologue
+                0x00002066       0x36 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_epilogue.o)
+                0x00002066                __epilogue_restores__
+                0x0000209c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000209c        0x0 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x0000209c                _exit
+                0x0000209c                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000209c        0x4 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000020a0                _etext = .
+
+.data           0x00800100       0x3e load address 0x000020a0
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.myStream
+                0x00800100        0xe serialio.o
+ .data.seven_seg
+                0x0080010e        0xa timer0.o
+                0x0080010e                seven_seg
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.p2_start_pieces
+                0x00800118        0x4 game.o
+ .rodata.p1_start_pieces
+                0x0080011c        0x4 game.o
+ .rodata.str1.1
+                0x00800120       0x1e scoring.o
+ *(.gnu.linkonce.r*)
+                0x0080013e                . = ALIGN (0x2)
+                0x0080013e                _edata = .
+                0x0080013e                PROVIDE (__data_end, .)
+
+.bss            0x0080013e      0x37b
+                0x0080013e                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.last_button_time
+                0x0080013e        0xc buttons.o
+ .bss.queue_length
+                0x0080014a        0x1 buttons.o
+ .bss.button_queue
+                0x0080014b        0x4 buttons.o
+ .bss.last_button_state
+                0x0080014f        0x1 buttons.o
+ .bss.no_move_game_over
+                0x00800150        0x1 game.o
+                0x00800150                no_move_game_over
+ .bss.pause     0x00800151        0x1 project.o
+                0x00800151                pause
+ .bss.do_echo   0x00800152        0x1 serialio.o
+ .bss.digit     0x00800153        0x1 timer0.o
+                0x00800153                digit
+ .bss.pause_state
+                0x00800154        0x1 timer0.o
+                0x00800154                pause_state
+ .bss.clockTicks
+                0x00800155        0x4 timer0.o
+ *(COMMON)
+ COMMON         0x00800159      0x244 game.o
+                0x00800159                cursor_y
+                0x0080015a                board
+                0x0080019a                current_player
+                0x0080019b                cursor_visible
+                0x0080019c                valid_direction
+                0x0080039c                cursor_x
+ COMMON         0x0080039d        0x2 scoring.o
+                0x0080039d                redScore
+                0x0080039e                greenScore
+ COMMON         0x0080039f      0x114 serialio.o
+                0x0080039f                out_insert_pos
+                0x008003a0                bytes_in_out_buffer
+                0x008003a1                out_buffer
+                0x008004a0                input_insert_pos
+                0x008004a1                input_buffer
+                0x008004b1                input_overrun
+                0x008004b2                bytes_in_input_buffer
+ COMMON         0x008004b3        0x6 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+                0x008004b3                __iob
+                0x008004b9                PROVIDE (__bss_end, .)
+                0x000020a0                __data_load_start = LOADADDR (.data)
+                0x000020de                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008004b9        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x008004b9                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 buttons.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 display.o
+ .comment       0x00000030       0x31 game.o
+ .comment       0x00000030       0x31 project.o
+ .comment       0x00000030       0x31 scoring.o
+ .comment       0x00000030       0x31 serialio.o
+ .comment       0x00000030       0x31 terminalio.o
+ .comment       0x00000030       0x31 timer0.o
+ .comment       0x00000030       0x31 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fgetc.o)
+ .comment       0x00000030       0x31 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(iob.o)
+ .comment       0x00000030       0x31 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf.o)
+ .comment       0x00000030       0x31 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(printf_p.o)
+ .comment       0x00000030       0x2c d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005c       0x31 d:/auperiod/2021s1/csse2010/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x270
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 buttons.o
+ .debug_aranges
+                0x00000030       0x30 display.o
+ .debug_aranges
+                0x00000060       0x78 game.o
+ .debug_aranges
+                0x000000d8       0x48 project.o
+ .debug_aranges
+                0x00000120       0x38 scoring.o
+ .debug_aranges
+                0x00000158       0x50 serialio.o
+ .debug_aranges
+                0x000001a8       0x88 terminalio.o
+ .debug_aranges
+                0x00000230       0x40 timer0.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x27a1
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4      0x222 buttons.o
+ .debug_info    0x00000816      0x32b display.o
+ .debug_info    0x00000b41      0xa56 game.o
+ .debug_info    0x00001597      0x5f3 project.o
+ .debug_info    0x00001b8a      0x1ab scoring.o
+ .debug_info    0x00001d35      0x3e9 serialio.o
+ .debug_info    0x0000211e      0x4a2 terminalio.o
+ .debug_info    0x000025c0      0x1e1 timer0.o
+
+.debug_abbrev   0x00000000     0x107a
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x100 buttons.o
+ .debug_abbrev  0x000006a2       0xfa display.o
+ .debug_abbrev  0x0000079c      0x202 game.o
+ .debug_abbrev  0x0000099e      0x19a project.o
+ .debug_abbrev  0x00000b38      0x11a scoring.o
+ .debug_abbrev  0x00000c52      0x230 serialio.o
+ .debug_abbrev  0x00000e82       0xe3 terminalio.o
+ .debug_abbrev  0x00000f65      0x115 timer0.o
+
+.debug_line     0x00000000     0x1979
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x134 D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000134      0x1e7 buttons.o
+ .debug_line    0x0000031b      0x1ab display.o
+ .debug_line    0x000004c6      0x88e game.o
+ .debug_line    0x00000d54      0x38c project.o
+ .debug_line    0x000010e0      0x193 scoring.o
+ .debug_line    0x00001273      0x299 serialio.o
+ .debug_line    0x0000150c      0x2af terminalio.o
+ .debug_line    0x000017bb      0x1be timer0.o
+
+.debug_frame    0x00000000      0x790
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xb4 buttons.o
+ .debug_frame   0x000000b4       0x8c display.o
+ .debug_frame   0x00000140      0x178 game.o
+ .debug_frame   0x000002b8       0xc8 project.o
+ .debug_frame   0x00000380       0xa8 scoring.o
+ .debug_frame   0x00000428       0xfc serialio.o
+ .debug_frame   0x00000524      0x1c0 terminalio.o
+ .debug_frame   0x000006e4       0xac timer0.o
+
+.debug_str      0x00000000      0xb77
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 D:/AUperiod/2021s1/CSSE2010/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x1f9 buttons.o
+                                0x241 (size before relaxing)
+ .debug_str     0x00000401      0x1a4 display.o
+                                0x2fe (size before relaxing)
+ .debug_str     0x000005a5      0x23e game.o
+                                0x3e0 (size before relaxing)
+ .debug_str     0x000007e3      0x131 project.o
+                                0x375 (size before relaxing)
+ .debug_str     0x00000914       0x34 scoring.o
+                                0x1ef (size before relaxing)
+ .debug_str     0x00000948       0xda serialio.o
+                                0x2d1 (size before relaxing)
+ .debug_str     0x00000a22       0xec terminalio.o
+                                0x3a3 (size before relaxing)
+ .debug_str     0x00000b0e       0x69 timer0.o
+                                0x217 (size before relaxing)
+
+.debug_loc      0x00000000     0x1b2b
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x262 buttons.o
+ .debug_loc     0x00000262      0x239 display.o
+ .debug_loc     0x0000049b      0x8fd game.o
+ .debug_loc     0x00000d98      0x24c project.o
+ .debug_loc     0x00000fe4      0x1c3 scoring.o
+ .debug_loc     0x000011a7      0x28b serialio.o
+ .debug_loc     0x00001432      0x5ce terminalio.o
+ .debug_loc     0x00001a00      0x12b timer0.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x258
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x20 buttons.o
+ .debug_ranges  0x00000020       0x20 display.o
+ .debug_ranges  0x00000040       0xd0 game.o
+ .debug_ranges  0x00000110       0x38 project.o
+ .debug_ranges  0x00000148       0x28 scoring.o
+ .debug_ranges  0x00000170       0x40 serialio.o
+ .debug_ranges  0x000001b0       0x78 terminalio.o
+ .debug_ranges  0x00000228       0x30 timer0.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Assignment.elf elf32-avr)
+LOAD linker stubs
